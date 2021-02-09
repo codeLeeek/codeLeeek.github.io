@@ -1,0 +1,8 @@
+I"8<p>Hello again and welcome to the first in the multi-part series: Building a blog site.</p>
+
+<p>In this series we’ll be looking at how one can build their own blog site through varying degrees of effort, cost, and technical experience. We’ll cover building a quick and simple site hosted on Github pages, right the way through to a self hosted cloud based blog site complete with custom domain, deployment pipeline and automatic package updates for added security.</p>
+
+<p>In Part 1: On the cheap cheap, we’ll cover how you can build a simple Jekyll based blog site, hosted for free on Github pages, without needing to know anything about coding or software development. All you’ll need is a computer, a Github account and a little bit of knowledge about Markdown.</p>
+
+<h2 id="before-we-begin">Before we begin</h2>
+:ET
