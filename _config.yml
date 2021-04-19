@@ -23,7 +23,7 @@ social-rss: feed.xml
 discus-identifier: codeLeeek # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: G-557F3X256C # Google Analytics
 
 # Build Settings
 markdown: kramdown
