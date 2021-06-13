@@ -23,6 +23,17 @@ Alright, ok, please forgive my over indulgence. Essentially what I'm trying to s
 
  To be clear I'm not suggesting this is a new revelation, certainly not my idea. In fact I only started thinking about this when I came across Troy Hunt's blog post around the importance of https.
 
+### So how do we think about security for everyone else?
+That's a good question, and it isn't so much about new things do we have to do to protect everyone else but rather, when assessing and remediating risk thinking about how the identified vulnerablity can affect everyone else, not just our key stakeholders.
 
+To see how this can work in practice let's take a look at some common vulnerabilities through the lense of how it can affect those stakeholders that aren't our immediate user base and how it could affect them.
+
+#### HTTPS & HSTS headers
+
+#### Reflected Cross Site Scripting (XSS)
+
+#### Invalid DMARC & Phishing
+
+#### Sub-domain takeovers
 
 
