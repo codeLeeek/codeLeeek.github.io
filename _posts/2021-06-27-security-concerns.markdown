@@ -2,7 +2,7 @@
 layout: post
 title: "The forgotten stakeholder."
 date: 2021-06-27 00:00:00 +1000
-description: "Should we be concerned about indirect stakeholders of our system?"
+description: "Should we be concerned for the indirect stakeholders of our system?"
 img: 2021-06-27/security-concerns.jpg
 ---
 I've been in the IT industry for around eight years now, the last two working with Security. While I'm still relatively new to security all the blogs, podcasts, security standards and even legal requirements I've encountered tend to focus mainly on the users of a product and the corporate stakeholders. Rarely do I see anyone talk about the seemingly forgotten stakeholder, everyone else. 
